@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RailwayPieceType",
+	"category" : "TrainRailwayBarrier",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RailwayPieceNoBarrier",
+	"type" : "normal"
+}

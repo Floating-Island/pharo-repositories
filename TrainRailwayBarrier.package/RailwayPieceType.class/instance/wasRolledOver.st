@@ -1,0 +1,3 @@
+updating
+wasRolledOver
+	^ self subclassResponsibility

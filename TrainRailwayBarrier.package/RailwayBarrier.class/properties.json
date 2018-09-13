@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TrainRailwayBarrier",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"state"
+	],
+	"name" : "RailwayBarrier",
+	"type" : "normal"
+}

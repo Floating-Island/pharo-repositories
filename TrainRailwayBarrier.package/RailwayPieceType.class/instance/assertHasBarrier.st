@@ -1,0 +1,3 @@
+assertions
+assertHasBarrier
+	^ self subclassResponsibility

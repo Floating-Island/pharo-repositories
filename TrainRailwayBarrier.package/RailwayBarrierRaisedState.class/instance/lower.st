@@ -1,0 +1,3 @@
+updating
+lower
+	^ RailwayBarrierLoweredState uniqueInstance

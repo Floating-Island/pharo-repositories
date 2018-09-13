@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"testLowerALowerdStateRejected" : "AlbertoMikulan 9/12/2018 01:41",
+		"testRaiseALoweredStateBecomesARaisedState" : "AlbertoMikulan 9/12/2018 01:48",
+		"testCreateStateForbidNew" : "AlbertoMikulan 9/11/2018 16:45",
+		"testCreateStateUniqueInstance" : "AlbertoMikulan 9/11/2018 16:47"
+	},
+	"class" : { }
+}

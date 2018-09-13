@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"initializeLowered" : "AlbertoMikulan 9/11/2018 18:40",
+		"isLowered" : "AlbertoMikulan 9/12/2018 12:04",
+		"isRaised" : "AlbertoMikulan 9/12/2018 12:04",
+		"lower" : "AlbertoMikulan 9/12/2018 01:44",
+		"raise" : "AlbertoMikulan 9/12/2018 01:43",
+		"initializeRaised" : "AlbertoMikulan 9/11/2018 18:41",
+		"raiseAfter5Seconds" : "AlbertoMikulan 9/9/2018 20:12"
+	},
+	"class" : {
+		"raised" : "AlbertoMikulan 9/9/2018 16:51",
+		"lowered" : "AlbertoMikulan 9/9/2018 16:06"
+	}
+}

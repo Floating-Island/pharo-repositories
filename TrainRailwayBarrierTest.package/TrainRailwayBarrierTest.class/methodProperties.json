@@ -1,0 +1,8 @@
+{
+	"instance" : {
+		"testTrainLeaves_BarrierIsRaised" : "AlbertoMikulan 9/9/2018 19:34",
+		"testTrainLeaves_BarrierIsRaisedIfRailwayPieceWasntNotified_AfterAWhile" : "AlbertoMikulan 9/9/2018 19:34",
+		"testTrainAppears_BarrierLowered" : "AlbertoMikulan 9/9/2018 19:34"
+	},
+	"class" : { }
+}

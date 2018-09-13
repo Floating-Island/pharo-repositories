@@ -1,0 +1,3 @@
+updating
+isRolledOver
+	pieceType wasRolledOver.

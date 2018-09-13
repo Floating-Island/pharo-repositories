@@ -1,0 +1,3 @@
+initialization
+initializeRaised
+	state := RailwayBarrierRaisedState uniqueInstance

@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"testBarrierRaisedRaiseRejected" : "AlbertoMikulan 9/11/2018 10:11",
+		"testRaiseBarrierAfterAWhile" : "AlbertoMikulan 9/12/2018 12:05",
+		"testRailwayBarrierInitializeRaised" : "AlbertoMikulan 9/12/2018 12:05",
+		"testRailwayBarrierInitializeLowered" : "AlbertoMikulan 9/11/2018 10:15",
+		"testRaiseBarrier" : "AlbertoMikulan 9/12/2018 12:05",
+		"testBarrierLoweredLowerRejected" : "AlbertoMikulan 9/9/2018 16:45"
+	},
+	"class" : { }
+}

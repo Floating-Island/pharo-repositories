@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"wasRolledOut" : "AlbertoMikulan 9/9/2018 19:05",
+		"assertHasBarrier" : "AlbertoMikulan 9/12/2018 12:40",
+		"wasRolledOver" : "AlbertoMikulan 9/9/2018 19:05",
+		"barrier" : "AlbertoMikulan 9/9/2018 17:23",
+		"initializeWithRaisedBarrier" : "AlbertoMikulan 9/9/2018 17:30",
+		"initializeWithLoweredBarrier" : "AlbertoMikulan 9/9/2018 17:14"
+	},
+	"class" : {
+		"WithRaisedState" : "AlbertoMikulan 9/9/2018 17:29",
+		"WithLoweredState" : "AlbertoMikulan 9/9/2018 17:12"
+	}
+}

@@ -1,0 +1,3 @@
+updating
+isRolledOut
+	pieceType wasRolledOut.
