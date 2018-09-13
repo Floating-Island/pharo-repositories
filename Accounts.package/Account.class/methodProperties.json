@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"deposit:" : "AlbertoMikulan 9/9/2018 12:21",
+		"initializeWithType:" : "AlbertoMikulan 9/8/2018 18:19",
+		"initialize" : "AlbertoMikulan 9/8/2018 18:05",
+		"balance" : "AlbertoMikulan 9/9/2018 12:20",
+		"withdraw:" : "AlbertoMikulan 9/8/2018 18:20"
+	},
+	"class" : {
+		"forCheckingsAllowingUpTo:" : "AlbertoMikulan 9/8/2018 18:21",
+		"ofType:" : "AlbertoMikulan 9/8/2018 18:21",
+		"forSavingsWithDrawalLimitedto:" : "AlbertoMikulan 9/8/2018 18:21"
+	}
+}

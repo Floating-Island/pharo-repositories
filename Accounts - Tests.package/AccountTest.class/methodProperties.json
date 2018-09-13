@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"testWithdraw100When100InCash" : "AlbertoMikulan 9/8/2018 18:25",
+		"testWithdrawNothing" : "AlbertoMikulan 9/8/2018 18:26",
+		"testDepositNegativeDepositRejected" : "AlbertoMikulan 9/9/2018 12:22",
+		"testWithdrawMoreThanAvailableRejected" : "AlbertoMikulan 9/8/2018 18:26",
+		"testDepositNothing" : "AlbertoMikulan 9/9/2018 12:19",
+		"testDeposit100BalanceBecomes100" : "AlbertoMikulan 9/9/2018 12:20",
+		"testSavingsAccountCanWithdrawOnlyBelowWithdrawalLimit" : "AlbertoMikulan 9/8/2018 18:22",
+		"testWhenAccountCreatedBalanceShouldBeZero" : "AlbertoMikulan 9/8/2018 18:06",
+		"testCheckingsAccountCanWithdrawBelow0Balance" : "AlbertoMikulan 9/8/2018 18:07",
+		"testInitializingAccountCashIsZero" : "AlbertoMikulan 9/8/2018 18:05"
+	},
+	"class" : { }
+}

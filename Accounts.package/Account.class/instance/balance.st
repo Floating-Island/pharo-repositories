@@ -1,0 +1,3 @@
+methods - balance
+balance
+	^ cash
